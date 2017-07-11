@@ -93,7 +93,7 @@ To point a place name to a domain ID, complete the following steps:
   ![](place-names-edit-view.png)
 
 6. Enter a **Path**, **Description**, and **Preview Image** (optional). 
-   The **Path** field specifies the position and orientation of visitors when they first come to your domain. A path is defined in this format: `/x,y,z`. For example, `/23,42,125`. The `x`, `y`, and `z` values are the coordinates of the user's position. These values can be approximated manually, or by placing an avatar in the desired location and copying its path. For more information, see [Get Path For Landing](../path). 
+   The **Path** field specifies the position and orientation of visitors when they first come to your domain. A path is defined in this format: `/x,y,z`. For example, `/23,42,125`. The `x`, `y`, and `z` values are the coordinates of the user's position. These values can be approximated manually, or by placing an avatar in the desired location and copying its path. For more information, see [Get Path For Landing](../set-path-in-your-domain). 
    The **Description** and **Preview Image** are used when your domain is listed in the High Fidelity Directory. 
 
 7. Click **Update Place** to save your changes. 
